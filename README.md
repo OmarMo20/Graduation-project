@@ -284,7 +284,7 @@ http://<kubernetes-ip>:30080
 
 ## 👨‍💻 Author
 
-**Omar Mo** — Graduation Project 2025
+**OUR TEAM** — Graduation Project 2025
 
 ---
 
