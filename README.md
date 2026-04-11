@@ -1,7 +1,8 @@
 A real-time electrical grid monitoring dashboard with a full DevOps CI/CD pipeline on AWS
 
 <img width="1911" height="911" alt="Screenshot 2026-04-11 211707" src="https://github.com/user-attachments/assets/00ef70c2-6661-4be5-a325-8340a69ee003" />
-![Screenshot_11-4-2026_21244_35 157 13 169](https://github.com/user-attachments/assets/0bd9f4a0-2be6-4c93-8ca1-750ef12a8b7f)
+![Screenshot_11-4-2026_21244_35 157 13 169](https://github.com/user-attachments/assets/7b16b5a5-a6d3-4859-a7af-25dbc1bfd354)
+
 <img width="1911" height="911" alt="Screenshot 2026-04-11 212328" src="https://github.com/user-attachments/assets/9677c201-d226-4237-8617-ab5091344a29" />
 <img width="1891" height="917" alt="Screenshot 2026-04-11 212308" src="https://github.com/user-attachments/assets/12d5d533-4a09-4d1d-a497-2a3a3800b110" />
 <img width="1905" height="916" alt="Screenshot 2026-04-11 212248" src="https://github.com/user-attachments/assets/959aa50d-30f3-4e6a-ab8b-3f5f3c4c014b" />
