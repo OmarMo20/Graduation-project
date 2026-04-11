@@ -281,32 +281,6 @@ http://<kubernetes-ip>:30080
 
 ---
 
-## 🔑 Environment Variables
-
-For local testing with RDS, create a `.env` file in the project root:
-
-```env
-DB_TYPE=mysql
-DB_HOST=your-rds-endpoint.eu-central-1.rds.amazonaws.com
-DB_PORT=3306
-DB_NAME=electravision
-DB_USER=admin
-DB_PASS=yourpassword
-```
-
-For Kubernetes deployment, set in `k8s/deployment.yaml`:
-
-```yaml
-env:
-  - name: DB_HOST
-    value: "your-rds-endpoint.eu-central-1.rds.amazonaws.com"
-  - name: DB_USER
-    value: "admin"
-  - name: DB_PASS
-    value: "yourpassword"
-```
-
----
 
 ## 👨‍💻 Author
 
